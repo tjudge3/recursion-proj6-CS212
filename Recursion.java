@@ -1,4 +1,5 @@
-//2022-10-08 - Lab6 - tjudge
+//Lab6 - tjudge
+//This was a basic assignment for understanding recursion. 
 //Add some flair to the assignment 'cuz it needed some fun
 public class Recursion {
     public static void main(String[] args) {
